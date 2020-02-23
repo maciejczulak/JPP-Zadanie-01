@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56bf2f0c-fdfd-4325-94d6-76271783ed7b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../DodatkoweZadania/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DodatkoweZadania/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DodatkoweZadania/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DodatkoweZadania/DodatkoweZadania.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DodatkoweZadania/out/production/DodatkoweZadania/DodatkoweZadania.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DodatkoweZadania/src/DodatkoweZadania.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Drugiezajęcia/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Drugiezajęcia/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Drugiezajęcia/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Drugiezajęcia/Drugiezajęcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Drugiezajęcia/out/production/Drugiezajęcia/Drugie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Drugiezajęcia/src/Drugie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPP-Zadanie-00/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPP-Zadanie-00/src/pl/sda/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPP-Zadanie-01/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPP-Zadanie-01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPP-Zadanie-01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPP-Zadanie-01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPP-Zadanie-01/JPP-Zadanie-01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPP-Zadanie-01/out/production/JPP-Zadanie-01/pl/sda/Zadanie01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPP-Zadanie-01/src/pl/sda/Zadanie01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPP-Zadanie-02/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPP-Zadanie-02/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPP-Zadanie-02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPP-Zadanie-02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPP-Zadanie-02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPP-Zadanie-02/JPP-Zadanie-02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPP-Zadanie-02/src/pl/sda/Zadanie02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPP-Zadanie-Maven00/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPP-Zadanie-Maven00/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPP-Zadanie-Maven00/src/main/java/pl/sda/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPP-Zadanie-StronaInternetowa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPP-Zadanie-TablInt/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPP-Zadanie-TablInt/src/pl/sda/ZadTalbInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kalkulator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kalkulator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kalkulator/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kalkulator/Kalkulator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kalkulator/src/Kalkulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kopiowanie tablic/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kopiowanie tablic/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kopiowanie tablic/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kopiowanie tablic/Kopiowanie tablic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kopiowanie tablic/out/production/Kopiowanie tablic/KopiowanieTablic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kopiowanie tablic/src/KopiowanieTablic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NaukaWlasna1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NaukaWlasna1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NaukaWlasna1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NaukaWlasna1/NaukaWlasna1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NaukaWlasna1/out/production/NaukaWlasna1/NaukaWlasna.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NaukaWlasna1/src/NaukaWlasna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NaukaWlasna2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NaukaWlasna2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NaukaWlasna2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NaukaWlasna2/NaukaWlasna2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NaukaWlasna2/out/production/NaukaWlasna2/ZadaniaWlasne.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NaukaWlasna2/src/ZadaniaWlasne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Osoba/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Osoba/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Osoba/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Osoba/Osoba.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Osoba/out/production/Osoba/Osoba.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Osoba/out/production/Osoba/Osoba1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Osoba/src/Osoba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Osoba/src/Osoba1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Osoba2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Osoba2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Osoba2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Osoba2/Osoba2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Osoba2/out/production/Osoba2/Osoba2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Osoba2/out/production/Osoba2/osobaklasa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Osoba2/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Osoba2/src/Osoba2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Osoba2/src/osobaklasa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PetlaWhile/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PetlaWhile/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PetlaWhile/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PetlaWhile/PetlaWhile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PetlaWhile/out/production/PetlaWhile/PetlaWhile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PetlaWhile/src/PetlaWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/Pierwsze zajęcia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/Pierwsza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/Pierwsza.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/Samochod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/allclasses-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/allclasses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/allpackages-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/index-all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/jquery/external/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/jquery/images/ui-bg_glass_65_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/jquery/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/jquery/images/ui-icons_222222_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/jquery/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/jquery/images/ui-icons_454545_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/jquery/images/ui-icons_888888_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/jquery/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/jquery/jquery-3.3.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/jquery/jquery-migrate-3.0.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/jquery/jquery-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/jquery/jquery-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/jquery/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/jquery/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/jquery/jquery-ui.structure.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/jquery/jquery-ui.structure.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/jquery/jszip-utils/dist/jszip-utils-ie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/jquery/jszip-utils/dist/jszip-utils-ie.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/jquery/jszip-utils/dist/jszip-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/jquery/jszip-utils/dist/jszip-utils.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/jquery/jszip/dist/jszip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/jquery/jszip/dist/jszip.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/member-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/member-search-index.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/package-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/package-search-index.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/resources/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/resources/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/type-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/out/production/Pierwsze zajęcia/type-search-index.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/Pierwsza.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/Pierwsza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/Samochod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/allclasses-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/allclasses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/allpackages-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/index-all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/jquery/external/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/jquery/images/ui-bg_glass_65_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/jquery/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/jquery/images/ui-icons_222222_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/jquery/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/jquery/images/ui-icons_454545_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/jquery/images/ui-icons_888888_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/jquery/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/jquery/jquery-3.3.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/jquery/jquery-migrate-3.0.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/jquery/jquery-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/jquery/jquery-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/jquery/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/jquery/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/jquery/jquery-ui.structure.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/jquery/jquery-ui.structure.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/jquery/jszip-utils/dist/jszip-utils-ie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/jquery/jszip-utils/dist/jszip-utils-ie.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/jquery/jszip-utils/dist/jszip-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/jquery/jszip-utils/dist/jszip-utils.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/jquery/jszip/dist/jszip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/jquery/jszip/dist/jszip.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/member-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/member-search-index.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/package-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/package-search-index.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/resources/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/resources/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/type-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pierwsze zajęcia/src/type-search-index.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjektPierwszy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjektPierwszy/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjektPierwszy/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjektPierwszy/ProjektPierwszy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjektPierwszy/out/production/ProjektPierwszy/Dom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjektPierwszy/out/production/ProjektPierwszy/PierwszyProjekt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjektPierwszy/src/Dom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjektPierwszy/src/PierwszyProjekt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringBuilder/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringBuilder/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringBuilder/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringBuilder/StringBuilder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringBuilder/src/StringBuliderClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringZadanie1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringZadanie1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringZadanie1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringZadanie1/StringZadanie1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringZadanie1/out/production/StringZadanie1/PorownanieStringow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringZadanie1/src/PorownanieStringow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Szachownica/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Szachownica/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Szachownica/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Szachownica/Szachownica.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Szachownica/out/production/Szachownica/Szach.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Szachownica/src/Szach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TablWielZad1Wojtek/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TablWielZad1Wojtek/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TablWielZad1Wojtek/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TablWielZad1Wojtek/TablWielZad1Wojtek.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TablWielZad1Wojtek/out/production/TablWielZad1Wojtek/Wojtek.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TablWielZad1Wojtek/src/Wojtek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TablWielowymZadanie1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TablWielowymZadanie1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TablWielowymZadanie1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TablWielowymZadanie1/TablWielowymZadanie1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TablWielowymZadanie1/out/production/TablWielowymZadanie1/TablWieloZad1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TablWielowymZadanie1/src/TablWieloZad1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tablice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tablice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tablice/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tablice/Tablice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tablice/out/production/Tablice/Tablice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tablice/src/Tablice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TabliceWilowymiarowe/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TabliceWilowymiarowe/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TabliceWilowymiarowe/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TabliceWilowymiarowe/TabliceWilowymiarowe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TabliceWilowymiarowe/out/production/TabliceWilowymiarowe/TabliceWielowymiarowe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TabliceWilowymiarowe/src/TabliceWielowymiarowe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadOblPierw/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadOblPierw/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadOblPierw/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadOblPierw/ZadOblPierw.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadOblPierw/out/production/ZadOblPierw/ZadOblPierKw.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadOblPierw/src/ZadOblPierKw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZadOpLog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ZadOpLog/ZadOpLog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ZadOpLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniaWlasne/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniaWlasne/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniaWlasne/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniaWlasne/ZadaniaWlasne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniaWlasne/src/Czas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniaWlasne2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniaWlasne2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniaWlasne2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniaWlasne2/ZadaniaWlasne2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniaWlasne2/out/production/ZadaniaWlasne2/zadaniawlasne3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniaWlasne2/src/zadaniawlasne3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniaWlasne3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniaWlasne3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniaWlasne3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniaWlasne3/ZadaniaWlasne3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniaWlasne3/out/production/ZadaniaWlasne3/ZadaniaWalsne3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniaWlasne3/src/ZadaniaWalsne3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadanie-JPP2-03" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadanie1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadanie1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadanie1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadanie1/Zadanie1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadanie1/out/production/Zadanie1/OperacjeNaZmiennych.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadanie1/src/OperacjeNaZmiennych.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadanie2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadanie2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadanie2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadanie2/Zadanie2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadanie2/out/production/Zadanie2/OperacjeMatematyczne.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadanie2/src/OperacjeMatematyczne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadanie4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadanie4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadanie4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadanie4/Zadanie4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadanie4/out/production/Zadanie4/MathRandom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadanie4/src/MathRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadanie4while/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadanie4while/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadanie4while/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadanie4while/Zadanie4while.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadanie4while/src/Zadnie4while.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadanie5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadanie5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadanie5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadanie5/Zadanie5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadanie5/out/production/Zadanie5/Zadanie5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadanie5/src/Zadanie5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadanie6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadanie6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadanie6/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadanie6/Zadanie6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadanie6/out/production/Zadanie6/Zadanie6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadanie6/src/Zadanie6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieForEach/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieForEach/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieForEach/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieForEach/ZadanieForEach.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieForEach/out/production/ZadanieForEach/ForEach.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieForEach/src/ForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieKlasaKalukator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieKlasaKalukator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieKlasaKalukator/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieKlasaKalukator/ZadanieKlasaKalukator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieKlasaKalukator/out/production/ZadanieKlasaKalukator/Kalklator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieKlasaKalukator/out/production/ZadanieKlasaKalukator/ZadanieKlasaKalkulator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieKlasaKalukator/out/production/ZadanieKlasaKalukator/com/sda/kilent/biznes/Kalklator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieKlasaKalukator/out/production/ZadanieKlasaKalukator/com/sda/klient/priv/Kalklator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieKlasaKalukator/src/Kalklator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieKlasaKalukator/src/ZadanieKlasaKalkulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieKlasaKalukator/src/com/sda/kilent/biznes/Kalklator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieKlasaKalukator/src/com/sda/klient/priv/Kalklator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniePracownik/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniePracownik/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniePracownik/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniePracownik/ZadaniePracownik.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniePracownik/src/Pracownik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniePracownik/src/ZadaniePracownik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniePunkt2D/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniePunkt2D/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniePunkt2D/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniePunkt2D/ZadaniePunkt2D.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniePunkt2D/out/production/ZadaniePunkt2D/Punkt2D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniePunkt2D/out/production/ZadaniePunkt2D/Punkt3D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniePunkt2D/out/production/ZadaniePunkt2D/ZadaniePunkt2D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniePunkt2D/src/Punkt2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniePunkt2D/src/Punkt3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadaniePunkt2D/src/ZadaniePunkt2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieRozgrzewkowe22luty/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieRozgrzewkowe22luty/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieRozgrzewkowe22luty/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieRozgrzewkowe22luty/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieRozgrzewkowe22luty/ZadanieRozgrzewkowe22luty.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieRozgrzewkowe22luty/out/production/ZadanieRozgrzewkowe22luty/ZadRozgrz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieRozgrzewkowe22luty/src/ZadRozgrz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieScanner/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieScanner/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieScanner/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieScanner/ZadanieScanner.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieScanner/out/production/ZadanieScanner/ZadanieScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieScanner/src/ZadanieScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieStringBulider/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieStringBulider/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieStringBulider/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieStringBulider/ZadanieStringBulider.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieStringBulider/src/Zadanie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieTablice3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieTablice3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieTablice3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieTablice3/ZadanieTablice3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadanieTablice3/src/ZadanieTablice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadnieIf/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadnieIf/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadnieIf/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadnieIf/ZadnieIf.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadnieIf/out/production/ZadnieIf/ZadnieIf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadnieIf/src/ZadnieIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadniePetlaDoWhile/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadniePetlaDoWhile/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadniePetlaDoWhile/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadniePetlaDoWhile/ZadniePetlaDoWhile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadniePetlaDoWhile/out/production/ZadniePetlaDoWhile/PetlaDoWhile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZadniePetlaDoWhile/src/PetlaDoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zajecia3Petle/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zajecia3Petle/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zajecia3Petle/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zajecia3Petle/Zajecia3Petle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zajecia3Petle/out/production/Zajecia3Petle/ZajeciaPetle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zajecia3Petle/src/ZajeciaPetle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zajecia3Petle1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zajecia3Petle1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zajecia3Petle1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zajecia3Petle1/Zajecia3Petle1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zajecia3Petle1/out/production/Zajecia3Petle1/Petle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zajecia3Petle1/src/Petle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zajecia3Zadanie/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zajecia3Zadanie/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zajecia3Zadanie/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zajecia3Zadanie/Zajecia3Zadanie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zajecia3Zadanie/out/production/Zajecia3Zadanie/Zadanie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zajecia3Zadanie/src/Zadanie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZajeciaGIT/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZajeciaGIT/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZajeciaGIT/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZajeciaGIT/ZajeciaGIT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZajeciaGIT/out/production/ZajeciaGIT/Zajecia.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ZajeciaGIT/src/Zajecia.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1XZV7oExX4BRd6hYYyMVTVVqoP2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Szachownica/src/Szach.java" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ZadOpLog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ZadOpLog" />
+      <module name="ZadOpLog" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ZadOpLog" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56bf2f0c-fdfd-4325-94d6-76271783ed7b" name="Default Changelist" comment="" />
+      <created>1581253438650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581253438650</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1582465283699">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582465283699" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1581256098988">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581256098988" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1581256098988">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581256098988" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1581256098988">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581256098988" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1581256098988">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581256098988" />
+    <state x="439" y="112" key="NewModule_or_Project.wizard" timestamp="1582465294559">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="439" y="112" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1582465294559" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1582465264209">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582465264209" />
+    <state x="209" y="34" key="new project wizard" timestamp="1581256097686">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="34" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1581256097686" />
+  </component>
+</project>
